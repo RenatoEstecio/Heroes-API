@@ -8,4 +8,5 @@ Forma de entrada de dados: Url's.
 
 Plataforma: Web
 
-Requisitos: Visual Studio Community 2019
+Requisitos: 
+  - Visual Studio Community 2019
